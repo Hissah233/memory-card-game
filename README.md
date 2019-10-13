@@ -1,7 +1,15 @@
 Game instructions:
 Measure memories the players.
+
+
+
 Requirement of the game:
 Try finish game with less move the card and time.
+
+
+
+
+
 instructions:
 1-flip cards once two match remains but when two different back other face of card
 2-when two cards open the calss move give 1 
